@@ -1,5 +1,5 @@
 <?php
 
-echo "à·Ê 1 2 3 Test";
+echo "à¹€à¸—à¸ª 1 2 3 Test";
 
 ?>
